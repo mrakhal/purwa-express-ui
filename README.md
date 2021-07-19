@@ -10,16 +10,16 @@ Project ini merupakan hasil implementasi dari semua materi yang telah dipelajari
 
 ### Landing Page
 
-!["landingpage"](documentation/images/landing_page.png)
+!["landingpage"](documentation/Images/landing_page.png)
 
 ### Admin
 
-!["adminside"](documentation/images/admin/Input%20pengiriman%20Page.png)
+!["adminside"](documentation/Images/admin/Input%20pengiriman%20Page.png)
 
 ### User : Delivery Status
 
-!["userside"](documentation/images/users/status%20page.png)
-!["userside"](documentation/images/users/detail%20page.png)
+!["userside"](documentation/Images/users/status%20page.png)
+!["userside"](documentation/Images/users/detail%20page.png)
 
 ### Library Used (Front End)
 
